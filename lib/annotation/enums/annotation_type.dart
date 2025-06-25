@@ -1,0 +1,1 @@
+enum AnnotationType { pharmacy, hotel, library, college, office }
